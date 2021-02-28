@@ -1,2 +1,2 @@
 # GuessIt
-A Simple GuessIt Game
+A Simple GuessIt game
